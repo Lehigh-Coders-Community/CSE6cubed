@@ -1,7 +1,7 @@
 ![Main image with logo](https://i.ibb.co/qj6yZsb/cse006cubed.png)
 # Welcome to CSE006 ^3 👋 
 
-There are many different paths you can take with a computer science degree. Some people specialize in a field of computer science (data science, machine learning, etc.). Many choose to take a role without programming that uses the problem-solving skills they developed. However, it is fair to say that the most common path is that CS graduates look to software engineering and development roles after college.
+There are many different paths you can take with a computer science degree. Some people specialize in a field of computer science (data science, machine learning, etc.). Many choose to take a role without programming that uses the problem-solving skills they developed. However, it is fair to say that the most common paths for CS graduates are software engineering and development roles.
 
 It used to be true that every student graduating from Lehigh with a CS degree was prepared for software engineering roles after Lehigh. Changes in the CSE curriculum have unfortunately undermined this (not to mention additional difficulties brought on by the coronavirus pandemic). This GitHub repository can't solve this problem - only curriculum changes can. That being said, that doesn't mean we can't do anything as Lehigh students. So, we will be writing and organizing resources, documentation, and code-labs.
 
