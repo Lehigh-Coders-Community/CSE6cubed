@@ -24,6 +24,7 @@ High Level
 - HTTP → CRUD → REST
 - HTTP VS HTTPS
 - Architecture patterns
+- Data Modelling
 
 ## Testing
 - What is unit testing?
