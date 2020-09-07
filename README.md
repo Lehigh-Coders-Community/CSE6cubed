@@ -1,4 +1,4 @@
-![Main image with logo](https://i.ibb.co/qj6yZsb/cse006cubed.png)
+![Main image with logo](https://i.ibb.co/bmZgtjX/cse006cubed.png)
 # Welcome to CSE006 ^3 👋 
 
 There are many different paths you can take with a computer science degree. Some people specialize in a field of computer science (data science, machine learning, etc.). Many choose to take a role without programming that uses the problem-solving skills they developed. However, it is fair to say that the most common paths for CS graduates are software engineering and development roles.
