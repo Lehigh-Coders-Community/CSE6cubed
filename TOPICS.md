@@ -5,6 +5,16 @@
 - Lifecycle Clone, Branch, Pull request, Squashing, cherry picking
 - Github VS BitBucket VS GitLab
 
+## Testing
+- What is unit testing?
+- Why is it important?
+- What should and should not be tested?
+- Frameworks
+
+## How Software Developers Work
+- Waterfall VS Agile
+- How Agile is implemented (Scrum, Kanban, etc.)
+
 ## Front End VS Backend
 High Level
 
@@ -25,12 +35,6 @@ High Level
 - HTTP VS HTTPS
 - Architecture patterns
 - Data Modelling
-
-## Testing
-- What is unit testing?
-- Why is it important?
-- What should and should not be tested?
-- Frameworks
 
 ## Build Tools/Package Managers
 - High level
