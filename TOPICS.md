@@ -74,5 +74,6 @@ High Level
 - High level
 - AWS/Azure/GCP
 - CI/CD, pipelines
+- Firebase
 
 
