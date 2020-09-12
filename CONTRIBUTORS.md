@@ -8,9 +8,9 @@ Working On: App development using Flutter/React Native, Python projects, Bots (M
 
 Contact: [Website](www.johncunnigham.co) [Twitter](https://twitter.com/cunningham_code) [GitHub](https://github.com/cunningham-code)
 
-Contributed To: [Ex1](https://github.com/cunningham-code), [Ex2](https://github.com/cunningham-code), [Ex3](https://github.com/cunningham-code)
+Contributed To: TBD
 
-Working On: [Ex1 STARTED 9/8](https://github.com/cunningham-code)
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/SUMMARY.md
 
 ![Matt West](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/4.png)
 
@@ -22,7 +22,7 @@ Contact: GroupMe for short/urgent things & Email for long/non-urgent things
 
 Contributed To: TBD
 
-Working On: TBD
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/05.%20Build%20Tools%20%26%20Package%20Managers/5a.%20High%20Level.md
 
 ![Michelle Nissan](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/3.png)
 
@@ -34,7 +34,7 @@ Contact: Phone: 516-426-4548
 
 Contributed To: TBD
 
-Working On: TBD
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/02.%20Testing/2a.%20What%20is%20unit%20testing%3F.md
 
 ![Buckley Ross](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/2.png)
 
@@ -46,7 +46,7 @@ Contact: You can reach me by email at buckleyross42@gmail.com
 
 Contributed To: TBD
 
-Working On: TBD
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/01.%20Version%20Control/1a.%20GIT%20BASICS.md
 
 ![William Peracchio](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/5.png)
 
@@ -58,4 +58,4 @@ Contact: LinkedIn: william-peracchio
 
 Contributed To: TBD
 
-Working On: TBD
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3a.%20Waterfall%20VS%20Agile.md
