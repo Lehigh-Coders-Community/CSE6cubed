@@ -1,24 +1,29 @@
 ![Tpoics](https://i.ibb.co/qRDcYXr/Topics-To-Be-Covered.png)
 
 ## Version Control
+
 - Git
 - Lifecycle Clone, Branch, Pull request, Squashing, cherry picking
-- Github VS BitBucket VS GitLab
+- GitHub VS BitBucket VS GitLab
 
 ## Testing
+
 - What is unit testing?
 - Why is it important?
 - What should and should not be tested?
 - Frameworks
 
 ## How Software Developers Work
+
 - Waterfall VS Agile
 - How Agile is implemented (Scrum, Kanban, etc.)
 
 ## Front End VS Backend
+
 High Level
 
 ### Frontend
+
 - HTML
 - CSS
 - Libraries
@@ -26,7 +31,9 @@ High Level
 - JavaScript
 - Frameworks
 - Codepen
+
 ### Backend
+
 - Internet basics
 - “Backend” languages
 - Frameworks
@@ -37,18 +44,21 @@ High Level
 - Data Modelling
 
 ## Build Tools/Package Managers
+
 - High level
 - Gradle, Maven
 - Npm, yarn, cargo, pip
 
-## AuthN/AuthZ
+## AuthN & AuthZ
+
 - Difference between authentication and authorization
 - Basic password security
 - OAuth
 
 ## Software Design Patterns
 
-## Design considerations
+## Design Considerations
+
 - I18n
 - Accessibility
 - Mobile design
@@ -56,7 +66,8 @@ High Level
 - Design Thinking
 - SEO
 
-## Database → Mention 241
+## Database
+
 - Relational Databases
 - SQL, examples
 - Non-relational Databases
@@ -64,16 +75,18 @@ High Level
 - Graphical Databases
 
 ## App Development
+
 - iOS vs Android
 - Frameworks
 
-## DevOps/Other
-- OS Concepts → 303
-- Virtualization - Containers/Orchestration
-### Cloud
+## Cloud
+
 - High level
 - AWS/Azure/GCP
 - CI/CD, pipelines
 - Firebase
 
+## Other
 
+- OS Concepts → 303
+- Virtualization - Containers/Orchestration
