@@ -59,3 +59,15 @@ Contact: LinkedIn: william-peracchio
 Contributed To: TBD
 
 Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3a.%20Waterfall%20VS%20Agile.md
+
+![Vasilios Oliver Walsh](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/6.png)
+
+Description: I'm a senior at Lehigh in the Computer Science & Business program, preparing for life as a software engineer after college. Perpetually motivated to increase my own knowledge of programming and computer science. Founders of Coders' Community, Technical Dev. Chair of the CSBA, and currently a junior systems administrator in the SunLAB.
+
+Working On: Sony R&D, Dolomite, personal site, machine learning, crypto
+
+Contact: vow221@lehigh.edu
+
+Contributed To: TBD
+
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3b.%20How%20Agile%20is%20implemented%20(Scrum%2C%20Kanban%2C%20etc.).md
