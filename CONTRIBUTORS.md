@@ -6,7 +6,7 @@ Description: Hi! I am the lead contributor to CSE6^3. I am a CSB senior, graduat
 
 Working On: App development using Flutter/React Native, Python projects, Bots (MSTeams/Slack)
 
-Contact: [Website](www.johncunnigham.co) [Twitter](https://twitter.com/cunningham_code) [GitHub](https://github.com/cunningham-code)
+Contact: [Website](www.johncunnigham.co), [Twitter](https://twitter.com/cunningham_code), [GitHub](https://github.com/cunningham-code), Email: cunningjc10@gmail.com
 
 Contributed To: TBD
 
@@ -86,11 +86,11 @@ Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.
 
 ![Cody Benkoski](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/7.png)
 
-Description: []
+Description: I am a senior computer science major in the College of Arts & Sciences. I'm passionate about the environment, renewable energy, and coal mines.
 
-Working On: []
+Working On: An integrated bus tracker for Lehigh University & LANTA (capstone project), and redoing an older GDAL binding for PHP that I wrote back before I took CSE 109.
 
-Contact: []
+Contact: [LinkedIn](https://www.linkedin.com/in/cody-benkoski/)
 
 Contributed To: TBD
 
