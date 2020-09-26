@@ -72,6 +72,18 @@ Contributed To: TBD
 
 Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3b.%20How%20Agile%20is%20implemented%20(Scrum%2C%20Kanban%2C%20etc.).md
 
+![Maxim Vezenov](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/8.png)
+
+Description: I’m a CSB student graduating in the Spring and looking to come back for my Masters in CS at Lehigh. I’ve interned at Dolomite and Klaviyo the past two summers where I was working as a full time developer.
+
+Working On: Currently, my course work takes up most of my time. I’m on a capstone team that is building a reference letter dApp in affiliation with ETC Labs.
+
+Contact: [LinkedIn](https://www.linkedin.com/in/maxim-vezenov/)
+
+Contributed To: TBD
+
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/4:%20BACKEND/4BACKNEDb.%20Languages.md
+
 ![Cody Benkoski](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/7.png)
 
 Description: []
@@ -83,15 +95,3 @@ Contact: []
 Contributed To: TBD
 
 Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/4:%20BACKEND/4BACKNEDa.%20Internet%20Basics.md
-
-![Maxim Vezenov](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/8.png)
-
-Description: []
-
-Working On: []
-
-Contact: []
-
-Contributed To: TBD
-
-Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/4:%20BACKEND/4BACKNEDb.%20Languages.md
