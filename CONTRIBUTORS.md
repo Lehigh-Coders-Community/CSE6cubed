@@ -71,3 +71,27 @@ Contact: vow221@lehigh.edu
 Contributed To: TBD
 
 Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3b.%20How%20Agile%20is%20implemented%20(Scrum%2C%20Kanban%2C%20etc.).md
+
+![Cody Benkoski](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/7.png)
+
+Description: []
+
+Working On: []
+
+Contact: []
+
+Contributed To: TBD
+
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/4:%20BACKEND/4BACKNEDa.%20Internet%20Basics.md
+
+![Maxim Vezenov](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/8.png)
+
+Description: []
+
+Working On: []
+
+Contact: []
+
+Contributed To: TBD
+
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/4:%20BACKEND/4BACKNEDb.%20Languages.md
