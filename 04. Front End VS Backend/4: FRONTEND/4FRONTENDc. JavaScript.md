@@ -2,9 +2,9 @@
 
 Some important things to keep in mind.
 
-- Okay the name is frustratingly close to Java. It is not Java. If you know Java, you might recognize some of the syntax. But, I want to be clear that your resume will be shreaded if you list Java/JavaScript in your skills section.
+- The name is frustratingly close to Java. It is not Java. If you know Java, you might recognize some of the syntax. But, I want to be clear that your resume will be shreaded if you list Java/JavaScript in your skills section.
 - The core of the JavaScript programming language was made in [10 days](https://www.checkmarx.com/blog/javascript-history-infographic/). This gives it some ... [quirks](https://www.destroyallsoftware.com/talks/wat) (skip to 1:20).
-- When watching the video about JavaScript's quirks. You'll notice that it isn't throwing an error...it just keeps going like [The Black Night](https://www.youtube.com/watch?v=ZmInkxbvlCs) in Monty Python. No error can stop it from continuing to run. Why would we want that? In the context of the web, this can make some sense. We don't want the entire website to stop working because of some error. This does, however, make web development debugging frustrating.
+- When watching the video about JavaScript's quirks, you'll notice that it isn't throwing an error...it just keeps going like [The Black Night](https://www.youtube.com/watch?v=ZmInkxbvlCs) in Monty Python. No error can stop it from continuing to run. Why would we want that? In the context of the web, this can make some sense. We don't want the entire website to stop working because of some error. This does, however, make web development debugging frustrating.
 - If you aren't convinced - Microsoft wasn't either. They wrote TypeScript - which has types and a bunch of other helpful features & gets compiled into JavaScript.
 
 ### Basics
@@ -69,7 +69,7 @@ document.getElementById("demo").innerHTML = "New Value!";
 
 ### JSON
 
-That's cool, but we don't have a string like shown in the example above. We have an object. There is actually a lot of times when we need to convert objects --> strings or strings --> objects. This especially comes up when sending data to/from a server.
+That's cool, but we don't have a string like shown in the example above. We have an object. There is a lot of times when we need to convert objects --> strings or strings --> objects. This especially comes up when sending data to/from a server.
 
 So, in order to convert that "array" object from above to a string, we use JSON - specifically JSON.stringify() (if we wanted to turn a string into an object, we'd use [JSON.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse))
 
@@ -86,7 +86,7 @@ Okay, that's cool and all, but this JavaScript runs when the page is loaded, whi
 
 ### Wrap Up
 
-My goal here wasn't to teach you JavaScript, just to teach you enough to understand (1) how it is different from other langauges you have learned and (2) how it makes pages more interactive - you saw how we were able to calcuate a value, and present it to the user.
+My goal here wasn't to teach you JavaScript, just to teach you enough to understand (1) how it is different from other languages you have learned and (2) how it makes pages more interactive - you saw how we were able to calculate a value and present it to the user.
 
 Some things to look into if you are interested in learning more:
 

@@ -12,7 +12,7 @@ Honestly, there isn't a really helpful answer to "How should we make this look?"
 
 ### How do other people think my website should look?
 
-Different people have different thoughts about how websites should look - at this point [Google](https://material.io/design) has the most comprehensive opinions on the matter.
+Different people have different thoughts about how websites should look - at this point, [Google](https://material.io/design) has the most comprehensive opinions on the matter.
 
 ### How do I make things look the way I want in CSS?
 
@@ -27,7 +27,7 @@ body {
 }
 ```
 
-We can target certain indidual items on a page by their ID:
+We can target certain individual items on a page by their ID:
 
 ```CSS
 #id1 {
@@ -36,7 +36,7 @@ We can target certain indidual items on a page by their ID:
 }
 ```
 
-We can target certain group of items on a page by their CLASS:
+We can target a certain group of items on a page by their CLASS:
 
 ```CSS
 .class-one {
@@ -52,7 +52,7 @@ Here are some things to do your own research into:
 
 ### Where can I learn more?
 
-The two places where I learned how to style, and what my own style for web-dev was involved two websites:
+The two places where I learned how to style, and what my own style for web-dev was involved in two websites:
 
-- [W3Schools](https://www.w3schools.com/css/default.asp) teaches the CSS fundementals very well.
+- [W3Schools](https://www.w3schools.com/css/default.asp) teaches the CSS fundamentals very well.
 - [CodePen](https://codepen.io/) is an excellent website for seeing what others are writing.

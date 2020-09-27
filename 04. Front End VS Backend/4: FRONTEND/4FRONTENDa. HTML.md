@@ -1,8 +1,8 @@
 ## HTML
 
-You are going to have to look this up again after this course is over, and that's ok! I had to look this up to double check that I got everything right.
+You will have to look this up again after this course is over, and that's ok! I had to look this up to double-check that I got everything right.
 
-Just keep in mind this question: how do we strucutre this front end in a way that people will find intuitive? In this case, on our website.
+Just keep in mind this question: how do we structure this front end so that people will find it intuitive? In this case, on our website.
 
 Let's break this down into some smaller questions.
 
@@ -15,7 +15,7 @@ Let's break this down into some smaller questions.
 
 You've been on a website before. What kinds of information belong together? Similar information. A website should help a user find the information they need in as little time as possible.
 
-In practice, this results in general purpose home pages that quickly narrow down to specific pages, often with custom information. Take Google. The home page is a generic page that is (roughly) what everyone seese when logging on. Then clicking on your gmail results on a highly customized page.
+In practice, this results in general-purpose home pages that quickly narrow down to specific pages, often with custom information. Take Google. The home page is a generic page that is (roughly) what everyone sees when logging on—then clicking on your profile results on a highly customized page.
 
 So, when designing your own website, every site will have a homepage - which in HTML we call an index.html file. Some users might want to learn more about our site, we can gather that information and put it in our about.html page, and some users want to manage their profile, we can display that on our profile.html page.
 
@@ -29,7 +29,7 @@ Code-Lab 2: Go [here](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_
 
 ### What is the most important thing on this page?
 
-We use headers to show what's important and to break up a long page of text (just as we do on this page, look at the size of HTML vs the header above). HTML supports this out of the book with the header tags.
+We use headers to show what's important and to break up a long page of text (just as we do on this page, look at the size of HTML vs. the header above). HTML supports this out of the book with the header tags.
 
 ```html
 <h1>This is the most important</h1>
@@ -47,7 +47,7 @@ Code-Lab 3: Go [here](https://www.w3schools.com/code/tryit.asp?filename=GJ5YLXDG
 
 ### What would be the best method to show users this information?
 
-Most often, you want to show text on your website. For this we have the P tag. In this case "P" means paragraph.
+Most often, you want to show text on your website. For this, we have the P tag. In this case, "P" means paragraph.
 
 ```html
 <p>This is some text</p>
@@ -60,7 +60,7 @@ Sometimes, you want to link to another part of your website / or someone else's 
 <a href="https://www.nasa.gov/">Link to nasa.gov</a>
 ```
 
-Sometimes, you want to have a list of content we use OL for ordered (as in numbered) list and UL for unordered (not-numbered) list. In both LI is a list item.
+Sometimes, you want to have a list of content; we use OL for ordered (as in numbered) list and UL for unordered (not-numbered) list. In both, LI is a list item.
 
 ```html
 <ol>
@@ -76,7 +76,7 @@ Sometimes, you want to have a list of content we use OL for ordered (as in numbe
 </ul>
 ```
 
-Sometimes, you want an image. For that we use an IMG tag. Images can be JPG, PNG or SVG - just paste the path of the image in SRC. Video and audio work basically the same way.
+Sometimes, you want an image. For that, we use an IMG tag. Images can be JPG, PNG, or SVG - just paste the path of the image in SRC. Video and audio tags work the same way.
 
 If you are wondering "wait why isn't it two tags like everything else?", like most things in HTML [this is for backwards compatability reasons](https://stackoverflow.com/questions/23890716/why-is-the-img-tag-not-closed-in-html). It's why websites from the 80s still pretty much work today.
 
