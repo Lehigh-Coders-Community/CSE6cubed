@@ -1,4 +1,6 @@
-# Internet Basics (with a focus on REST)
+# Internet Basics
+
+Before we can get into how backends work - it helps to be familiar with these internet concepts.
 
 ## The Gameplan
 - What is HTTP built on, and why you should care.
@@ -112,3 +114,5 @@ For example:
 ```ping 9.9.9.9``` The other servert to check if you can also access it.
 ### Netcat
 Netcat is a program (used earlier in the article) which you can use to send arbitrary data across a network. Its always useful if you want to see if you can access a specific port. 
+
+Great - with these concepts down - let's look what we are connecting to the internet (our backend).
