@@ -3,9 +3,12 @@
 Make sure you read the article on JavaScript first, otherwise this won't make any sense!
 
 ### Why TypeScript
+
 You're probably impressed with the flexibility that JavaScript, a dynamically-typed language, offers a programmer. There are relatively few keywords in the language, all variables can be assigned any type, and the syntax is reminiscent of Java without a lot of the rules. All objects are inherently ill-defined, with the flexibility to assign any object any property as you see fit. 
 
-Sounds wonderful right? Well in some cases yes, some cases no. For smaller projects, this flexibility works fine (great even), but for larger, more complicated projects with more developers, this flexibility turns into a nightmare very quickly. Other dynamically-typed languages like Python have ways to enforce typing natively, but JavaScript does not currently. Given how popular JavaScript was becoming and how much interactive web-pages were forcing on JS developers, a change needed to happen. And that change was (TypeScript)[https://www.typescriptlang.org/], created by Microsoft in 2012. The language is still being updated pretty regularly, and is open-source.
+Sounds wonderful right? Well in some cases yes, some cases no. For smaller projects, this flexibility works fine (great even), but for larger, more complicated projects with more developers, this flexibility turns into a nightmare very quickly. Other dynamically-typed languages like Python have ways to enforce typing natively, but JavaScript does not currently. Given how popular JavaScript was becoming and how much interactive web-pages were forcing on JS developers, a change needed to happen. 
+
+That change was [TypeScript](https://www.typescriptlang.org/), created by Microsoft in 2012. The language is still being updated pretty regularly, and is open-source.
 
 ### What is TypeScript?
 
