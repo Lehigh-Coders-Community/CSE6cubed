@@ -54,9 +54,9 @@ Description: I surround myself with people who are smarter than me to learn from
 
 Working On: Updated CSB flowchart, customizable personal website, Piazza bot
 
-Contact: LinkedIn: william-peracchio
+Contact: [LinkedIn](https://www.linkedin.com/in/william-peracchio/)
 
-Contributed To: TBD
+Contributed To: Agile vs. Waterfall, Agile Implementations, TypeScript
 
 Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3a.%20Waterfall%20VS%20Agile.md
 
