@@ -8,9 +8,9 @@ Working On: App development using Flutter/React Native, Python projects, Bots (M
 
 Contact: [Website](www.johncunnigham.co), [Twitter](https://twitter.com/cunningham_code), [GitHub](https://github.com/cunningham-code), Email: cunningjc10@gmail.com
 
-Contributed To: TBD
+Contributed To: Front End VS Backend, HTML, CSS, JavaScript
 
-Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/SUMMARY.md
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/02.%20Testing/2a.%20What%20is%20unit%20testing%3F.md 
 
 ![Matt West](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/4.png)
 
@@ -34,7 +34,7 @@ Contact: Phone: 516-426-4548
 
 Contributed To: TBD
 
-Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/02.%20Testing/2a.%20What%20is%20unit%20testing%3F.md
+Working On: TBD
 
 ![Buckley Ross](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/2.png)
 
@@ -44,9 +44,9 @@ Working On: My latest undertaking is a complete redesign of the popular to-do-li
 
 Contact: You can reach me by email at buckleyross42@gmail.com
 
-Contributed To: TBD
+Contributed To: Git Basics
 
-Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/01.%20Version%20Control/1a.%20GIT%20BASICS.md
+Working On: Git Intermediate
 
 ![William Peracchio](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/5.png)
 
@@ -54,9 +54,9 @@ Description: I surround myself with people who are smarter than me to learn from
 
 Working On: Updated CSB flowchart, customizable personal website, Piazza bot
 
-Contact: LinkedIn: william-peracchio
+Contact: [LinkedIn](https://www.linkedin.com/in/william-peracchio/)
 
-Contributed To: TBD
+Contributed To: Agile vs. Waterfall, Agile Implementations, TypeScript
 
 Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3a.%20Waterfall%20VS%20Agile.md
 
