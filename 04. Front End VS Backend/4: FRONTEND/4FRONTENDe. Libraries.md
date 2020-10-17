@@ -1,12 +1,19 @@
 ## Frontend Libraries
 ---
-### Libraries versus Frameworks
+Welcome to the next stage of the frontend gauntlet - libraries. Fear not, though, these will make your day when you compare them to the raw, bare-bone nature of the Big Three (JS, HTML, & CSS).
+
+### They're Different Than Frameworks
 
 Frontend libraries are meant to streamline the process of implementing a wide variety of code. On the frontend, there is code to be written for virtually anything you can think of on the envisioned webpage, ranging from the state of a value to the type of rendering which occurs as you travel to a URL.
 
 *Libraries* will be run in your code, versus *frameworks* which run your code.
 
 Mostly, libraries and frameworks deal with the JS of your frontend trifecta. Having your JavaScript compartmentalized is quite helpful, especially when you're looking for efficiency in your own development experience. However, mastering libraries and frameworks is an entire challenge in itself.
+
+### Conceptually...
+Libraries just pull together a lot of different code which can serve a purpose in achieving some programmatic objective. For instance, if you want to build a site, you might want to use Vue in order to handle the more complex aspects of frontend development, the "under the hood" stuff. 
+
+---
 
 ### JavaScript Libraries
 
@@ -16,12 +23,12 @@ Library snippets can be pasted throughout the rest of a project as needed. An ex
 
 > jQuery is a fast, small, and feature-rich JavaScript library. It makes thing like HTML documental traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 
-#### Example Code
+#### Example Code  
 `$( "button.continue" ).html( "Next Step..." )`
 
 Notice, jQuery utilizes the '$' character. This is a universal predicator for all jQuery usage. It is the root reference you must call whenever utilizing the library, and this is an inherent property of the library - it's just JavaScript layered ontop of more JavaScript!
 
-Here's an example of an Ajax server call being made with jQuery.
+Here's an example of an Ajax server call being made with jQuery.  
 `$.ajax({
   url: "/api/getWeather",
   data: {
@@ -49,11 +56,6 @@ You'll find an assortment of libraries useful throughout the lifetime of your pr
 - An alternative to React, Vue compartmentalizes many of the complex aspects of React. Vue js is based on the Virtual DOM model, much like React, and has a component-based architecture. Using templates of Vue.js, apps can be created faster. Vue also requires fewer lines of code for the same task that would need more code with other libraries. If you need a small application to be built in less time, Vue should be your perfect choice. By combining Vue with other tools and utilities, you can get a full-fledged framework. As a framework, Vue can handle complex functionalities like routing, build tooling, and state management. 
 6. [JsPHP](https://www.php.net/)
 - As the name suggests, JsPHP is a JS library for PHP API to be available in the JS environment. It is open-source and provides a compelling interface for JS developers who work in PHP. JsPHP can work in tandem with other libraries in an application. JsPHP supports PHP functions, including regular expressions, date-time evaluations, JSON, error handling, object manipulations, strings, XML, URL, and so 
-
-
-
-
-
 
 *resources:*
 https://hackr.io/blog/top-javascript-libraries
