@@ -2,6 +2,10 @@
 ---
 Welcome to the next stage of the frontend gauntlet - libraries. Fear not, though, these will make your day when you compare them to the raw, bare-bone nature of the Big Three (JS, HTML, & CSS).
 
+
+### Conceptually...
+Libraries just pull together a lot of different code which can serve a purpose in achieving some programmatic objective. For instance, if you want to build a site, you might want to use Vue in order to handle the more complex aspects of frontend development, the "under the hood" stuff. Don't have a closed mind when it comes to the possible libraries which might exist. A Google search will likely spawn a multitude of instantly available, beautifully pre-written open source code for your own desires and applications.
+
 ### They're Different Than Frameworks
 
 Frontend libraries are meant to streamline the process of implementing a wide variety of code. On the frontend, there is code to be written for virtually anything you can think of on the envisioned webpage, ranging from the state of a value to the type of rendering which occurs as you travel to a URL.
@@ -9,9 +13,6 @@ Frontend libraries are meant to streamline the process of implementing a wide va
 *Libraries* will be run in your code, versus *frameworks* which run your code.
 
 Mostly, libraries and frameworks deal with the JS of your frontend trifecta. Having your JavaScript compartmentalized is quite helpful, especially when you're looking for efficiency in your own development experience. However, mastering libraries and frameworks is an entire challenge in itself.
-
-### Conceptually...
-Libraries just pull together a lot of different code which can serve a purpose in achieving some programmatic objective. For instance, if you want to build a site, you might want to use Vue in order to handle the more complex aspects of frontend development, the "under the hood" stuff. Don't have a closed mind when it comes to the possible libraries which might exist. A Google search will likely spawn a multitude of instantly available, beautifully pre-written open source code for your own desires and applications.
 
 ---
 
