@@ -2,6 +2,8 @@
 ---
 Welcome to the next stage of the frontend gauntlet - libraries. Fear not, though, these will make your day when you compare them to the raw, bare-bone nature of the Big Three (JS, HTML, & CSS).
 
+![image](https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/FILES/bigthree.png)
+
 
 ### Conceptually...
 Libraries just pull together a lot of different code which can serve a purpose in achieving some programmatic objective.  For instance, if you want to build a site, you might want to use Vue in order to handle the more complex aspects of frontend development, the "under the hood" stuff.  Don't have a closed mind when it comes to the possible libraries which might exist. A Google search will likely spawn a multitude of instantly available, beautifully pre-written open source code for your own desires and applications.
