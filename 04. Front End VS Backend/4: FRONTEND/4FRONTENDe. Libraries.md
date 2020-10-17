@@ -11,7 +11,7 @@ Frontend libraries are meant to streamline the process of implementing a wide va
 Mostly, libraries and frameworks deal with the JS of your frontend trifecta. Having your JavaScript compartmentalized is quite helpful, especially when you're looking for efficiency in your own development experience. However, mastering libraries and frameworks is an entire challenge in itself.
 
 ### Conceptually...
-Libraries just pull together a lot of different code which can serve a purpose in achieving some programmatic objective. For instance, if you want to build a site, you might want to use Vue in order to handle the more complex aspects of frontend development, the "under the hood" stuff. 
+Libraries just pull together a lot of different code which can serve a purpose in achieving some programmatic objective. For instance, if you want to build a site, you might want to use Vue in order to handle the more complex aspects of frontend development, the "under the hood" stuff. Don't have a closed mind when it comes to the possible libraries which might exist. A Google search will likely spawn a multitude of instantly available, beautifully pre-written open source code for your own desires and applications.
 
 ---
 
