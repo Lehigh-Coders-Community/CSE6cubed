@@ -6,11 +6,11 @@ Description: Hi! I am the lead contributor to CSE6^3. I am a CSB senior, graduat
 
 Working On: App development using Flutter/React Native, Python projects, Bots (MSTeams/Slack)
 
-Contact: [Website](www.johncunnigham.co) [Twitter](https://twitter.com/cunningham_code) [GitHub](https://github.com/cunningham-code)
+Contact: [Website](www.johncunnigham.co), [Twitter](https://twitter.com/cunningham_code), [GitHub](https://github.com/cunningham-code), Email: cunningjc10@gmail.com
 
-Contributed To: TBD
+Contributed To: Front End VS Backend, HTML, CSS, JavaScript
 
-Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/SUMMARY.md
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/02.%20Testing/2a.%20What%20is%20unit%20testing%3F.md 
 
 ![Matt West](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/4.png)
 
@@ -34,7 +34,7 @@ Contact: Phone: 516-426-4548
 
 Contributed To: TBD
 
-Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/02.%20Testing/2a.%20What%20is%20unit%20testing%3F.md
+Working On: TBD
 
 ![Buckley Ross](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/2.png)
 
@@ -44,9 +44,9 @@ Working On: My latest undertaking is a complete redesign of the popular to-do-li
 
 Contact: You can reach me by email at buckleyross42@gmail.com
 
-Contributed To: TBD
+Contributed To: Git Basics
 
-Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/01.%20Version%20Control/1a.%20GIT%20BASICS.md
+Working On: Git Intermediate
 
 ![William Peracchio](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/5.png)
 
@@ -54,8 +54,44 @@ Description: I surround myself with people who are smarter than me to learn from
 
 Working On: Updated CSB flowchart, customizable personal website, Piazza bot
 
-Contact: LinkedIn: william-peracchio
+Contact: [LinkedIn](https://www.linkedin.com/in/william-peracchio/)
+
+Contributed To: Agile vs. Waterfall, Agile Implementations, TypeScript
+
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3a.%20Waterfall%20VS%20Agile.md
+
+![Vasilios Oliver Walsh](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/6.png)
+
+Description: I'm a senior at Lehigh in the Computer Science & Business program, preparing for life as a software engineer after college. Perpetually motivated to increase my own knowledge of programming and computer science. Founders of Coders' Community, Technical Dev. Chair of the CSBA, and currently a junior systems administrator in the SunLAB.
+
+Working On: Sony R&D, Dolomite, personal site, machine learning, crypto
+
+Contact: vow221@lehigh.edu
 
 Contributed To: TBD
 
-Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3a.%20Waterfall%20VS%20Agile.md
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/03.%20How%20Software%20Developers%20Work/3b.%20How%20Agile%20is%20implemented%20(Scrum%2C%20Kanban%2C%20etc.).md
+
+![Maxim Vezenov](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/8.png)
+
+Description: I’m a CSB student graduating in the Spring and looking to come back for my Masters in CS at Lehigh. I’ve interned at Dolomite and Klaviyo the past two summers where I was working as a full time developer.
+
+Working On: Currently, my course work takes up most of my time. I’m on a capstone team that is building a reference letter dApp in affiliation with ETC Labs.
+
+Contact: [LinkedIn](https://www.linkedin.com/in/maxim-vezenov/)
+
+Contributed To: TBD
+
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/4:%20BACKEND/4BACKNEDb.%20Languages.md
+
+![Cody Benkoski](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/7.png)
+
+Description: I am a senior computer science major in the College of Arts & Sciences. I'm passionate about the environment, renewable energy, and coal mines.
+
+Working On: An integrated bus tracker for Lehigh University & LANTA (capstone project), and redoing an older GDAL binding for PHP that I wrote back before I took CSE 109.
+
+Contact: [LinkedIn](https://www.linkedin.com/in/cody-benkoski/)
+
+Contributed To: TBD
+
+Working On: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/04.%20Front%20End%20VS%20Backend/4:%20BACKEND/4BACKNEDa.%20Internet%20Basics.md
