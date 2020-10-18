@@ -2,7 +2,7 @@
 ---
 Welcome to the next stage of the frontend gauntlet - libraries. Fear not, though, these will make your day when you compare them to the raw, bare-bone nature of the Big Three (JS, HTML, & CSS).
 
-![image](https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/FILES/assets/imgs/bigthree.png)
+![image](https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/%F0%9F%9F%A6%20%20%20%20%20FILES/assets/img/bigthree.png)
 
 
 ### Conceptually...
