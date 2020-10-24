@@ -38,7 +38,7 @@ Working On: Updated CSB flowchart, customizable personal website, Piazza bot
 
 Contact: [LinkedIn](https://www.linkedin.com/in/william-peracchio/)
 
-Writing Now: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/%F0%9F%9F%A5%20%20%20%20%2005.%20Front%20End%20VS%20Backend/5:%20BACKEND/5BACKNEDd.%20APIs.md
+Writing Now: https://github.com/Lehigh-Coders-Community/CSE6cubed/tree/master/%F0%9F%9F%A5%20%20%20%20%2007.%20Software%20Design%20Patterns
 
 ![Vasilios Oliver Walsh](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/6.png)
 
