@@ -18,7 +18,7 @@ Working On: I am doing research with Dr. He to use machine learning algorithms t
 
 Contact: GroupMe for short/urgent things & Email for long/non-urgent things
 
-Writing Now: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/%F0%9F%9F%A5%20%20%20%20%2005.%20Front%20End%20VS%20Backend/5:%20BACKEND/5BACKNEDb.%20Languages.md,  https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/%F0%9F%9F%A5%20%20%20%20%2005.%20Front%20End%20VS%20Backend/5:%20BACKEND/5BACKNEDc.%20Frameworks.md
+Writing Now: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/%F0%9F%9F%A5%20%20%20%20%2005.%20Front%20End%20VS%20Backend/5:%20BACKEND/5BACKNEDb.%20Languages.md, https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/%F0%9F%9F%A5%20%20%20%20%2005.%20Front%20End%20VS%20Backend/5:%20BACKEND/5BACKNEDc.%20Frameworks.md
 
 ![Buckley Ross](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/2.png)
 
@@ -70,13 +70,13 @@ Contact: [LinkedIn](https://www.linkedin.com/in/maxim-vezenov/)
 
 Writing Now: https://github.com/Lehigh-Coders-Community/CSE6cubed/blob/master/%F0%9F%9F%A5%20%20%20%20%2005.%20Front%20End%20VS%20Backend/5:%20BACKEND/5BACKNEDg.%20Architecture%20Patterns.md
 
-![Cameron Cipriano](PHOTO TBD)
+![Cameron Cipriano](https://raw.githubusercontent.com/Lehigh-Coders-Community/CSE6cubed/master/FILES/profilephotos/9.png)
 
-Description: TBD
+Description: Hi! I am a senior at Lehigh University studying Computer Science and Business with minors in Data Science and Entrepreneurship. In about a year's time, I have plans to attend graduate school to obtain a Masters in Robotics Engineering as the application of software for robotics is my passion. I love all things technical and I am extremely curious, but I also enjoy the outdoors and being active.
 
-Working On: TBD
+Working On: I am working on building my personal website, continuing research for a Gas Metal Arc Welding 3D printer, and contributing to CSE6^3.
 
-Contact: TBD
+Contact: [LinkedIn](https://www.linkedin.com/in/cameron-cipriano/)
 
 Writing Now: https://github.com/Lehigh-Coders-Community/CSE6cubed/tree/master/%F0%9F%9F%A5%20%20%20%20%2007.%20Software%20Design%20Patterns
 
