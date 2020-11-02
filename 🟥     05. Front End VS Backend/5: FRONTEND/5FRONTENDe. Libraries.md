@@ -34,7 +34,8 @@ Library snippets can be pasted throughout the rest of a project as needed. An ex
 
 Notice, jQuery utilizes the '$' character. This is a universal predicator for all jQuery usage. It is the root reference you must call whenever utilizing the library, and this is an inherent property of the library - it's just JavaScript layered ontop of more JavaScript!
 
-Here's an example of an Ajax server call being made with jQuery.  
+Here's an example of an Ajax server call being made with jQuery.
+
 `$.ajax({
   url: "/api/getWeather",
   data: {
@@ -97,5 +98,5 @@ https://www.youtube.com/watch?v=3HMtarQAt3A
 ---
 
 **Online Resources:**
-https://hackr.io/blog/top-javascript-libraries
+https://hackr.io/blog/top-javascript-libraries  
 https://learntocodewith.me/posts/javascript-libraries-frameworks/
